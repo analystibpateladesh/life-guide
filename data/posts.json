@@ -1,0 +1,92 @@
+{
+  "communities": [
+    {
+      "id": "seed-ceveryday",
+      "name": "Everyday problems",
+      "slug": "everyday-problems",
+      "description": "Locks, keys, travel hiccups, and small crises.",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seed-ccareer",
+      "name": "Career",
+      "slug": "career",
+      "description": "Interviews, resumes, and workplace navigation.",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seed-cnews",
+      "name": "News & updates",
+      "slug": "news",
+      "description": "Community announcements and timely discussion.",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seed-cgeneral",
+      "name": "General",
+      "slug": "general",
+      "description": "Anything that does not fit elsewhere.",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "44592a19-dbed-4828-90b9-16ffe0a6fdbd",
+      "name": "g/HCU-SOE",
+      "slug": "g-hcu-soe",
+      "description": "hi, here is one of the thing all about SOE",
+      "createdAt": "2026-04-02T20:03:13.269Z"
+    }
+  ],
+  "posts": [
+    {
+      "id": "seed-1",
+      "title": "What should I do if I locked my keys in the car?",
+      "body": "I am in a parking lot and my phone is in the car too. No spare key nearby. What is the calmest order of steps?",
+      "imageUrl": null,
+      "communityId": "seed-ceveryday",
+      "author": "Jamie",
+      "createdAt": "2026-04-01T10:00:00.000Z",
+      "answers": [
+        {
+          "id": "a1",
+          "body": "If you have roadside assistance (AAA, insurance app, car maker app), call them first. Many plans cover lockouts. If a pet or child is inside, call emergency services immediately. Otherwise use a reputable locksmith.",
+          "author": "mike_fixes",
+          "createdAt": "2026-04-01T11:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "seed-2",
+      "title": "First job interview in ten years — how do I prep in one evening?",
+      "body": "I have an interview tomorrow morning for an office admin role. I am rusty on how to present myself.",
+      "imageUrl": null,
+      "communityId": "seed-ccareer",
+      "author": "returning_worker",
+      "createdAt": "2026-03-30T14:00:00.000Z",
+      "answers": [
+        {
+          "id": "a2",
+          "body": "Skim the company site for their mission and one recent headline. Write 3 short stories: solving a problem, a busy day, and working with someone difficult. Prepare 2 questions for them about the team. Sleep beats cramming.",
+          "author": "hr_nomad",
+          "createdAt": "2026-03-30T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "e40ddfd9-fbd1-4cf2-8149-91177d691549",
+      "title": "First post",
+      "body": "i there this is my first post",
+      "imageUrl": "/uploads/761bf044-9ff7-4fe2-ac79-6975623c6177.webp",
+      "communityId": "seed-ccareer",
+      "author": "patel",
+      "createdAt": "2026-04-02T20:01:27.019Z",
+      "answers": [
+        {
+          "id": "a196a9f2-0422-40a3-a2d8-7e80a1dedddb",
+          "body": "good , hope this could work..",
+          "author": "patel",
+          "createdAt": "2026-04-02T20:01:53.269Z"
+        }
+      ]
+    }
+  ]
+}
