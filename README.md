@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-A  SIOCIAL MEDIA APP FOR ANAONYMOUS PEOPLE & THEIR PROBLEM SOLUTION & SHARING, BUT FOR A COLLEGE & SOME FEATURES
+A  SOCIAL MEDIA APP FOR ANAONYMOUS PEOPLE & THEIR PROBLEM SOLUTION & SHARING, BUT FOR A COLLEGE & SOME FEATURES
+
 ## Getting Started
 
 First, run the development server:
